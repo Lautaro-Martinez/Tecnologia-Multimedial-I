@@ -177,5 +177,6 @@ void mouseClicked(){
   posY3 = -600;
   score = 0;
   life = 100;
+  ejeX = 200;
 
 }
